@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 
 <ul>
 	<li>첫번째 리스트</li>
@@ -18,5 +19,19 @@
 </ul>
 
 <p>리스트 추가 그만</p>
+
+<ol>
+<li>LIST</li>
+<li>LIST</li>
+<li>LIST</li>
+<li>LIST</li>
+<li>LIST</li>
+<li>LIST</li>
+<li>LIST</li>
+<li>LIST</li>
+
+</ol>
+
 </body>
+<p>리스트 마감</p>
 </html>
