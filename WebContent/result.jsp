@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
+
 <ul>
 	<li>첫번째 리스트</li>
 	<li>두번째 리스트</li>
@@ -16,7 +16,7 @@
 	<li>5번째 리스트</li>
 	
 </ul>
-=======
+
 
 >>>>>>> parent of 86892cd... 리스트 추가
 </body>
