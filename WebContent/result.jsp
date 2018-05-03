@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
+<h3>깃허브가입 축하</h3>
 
 <ul>
 	<li>첫번째 리스트</li>
